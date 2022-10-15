@@ -27,5 +27,9 @@ npx react-native run-android
 
 The Application Prototype is live in [locofy.ai](https://www.locofy.ai/builder/63496b99842b4385469c62b2?screen=46%3A175)
 
+## App Demo
+
+<video src='./PayeeAppDemo.mp4' width=180/>
+
 - Version: 1.0.0
 - Author: Jagadeesh
