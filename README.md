@@ -29,7 +29,5 @@ The Application Prototype is live in [locofy.ai](https://www.locofy.ai/builder/6
 
 ## App Demo
 
-<video src='./PayeeAppDemo.mp4' width=180/>
-
 - Version: 1.0.0
 - Author: Jagadeesh
