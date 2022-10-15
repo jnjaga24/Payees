@@ -25,7 +25,7 @@ npx react-native run-android
 
 ## Demo
 
-The Application Prototype is live in [locofy.ai](https://www.locofy.ai/builder/63496b99842b4385469c62b2?screen=46%3A175)
+The Application Prototype is live in [locofy.ai](https://www.locofy.ai/preview/PSrhxrvsyKxM2AdleAe9a%2FAukkRHpgEgfkkTaUGl5l7gYTr0%2F1aQ0g5c46HwgdnaXWWXkNU7VXgXqc5r2VvEp2y3OQcKNNFAKg%3D%3D/Payee)
 
 ## App Demo
 
