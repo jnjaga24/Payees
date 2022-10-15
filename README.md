@@ -29,5 +29,9 @@ The Application Prototype is live in [locofy.ai](https://www.locofy.ai/preview/P
 
 ## App Demo
 
+
+https://user-images.githubusercontent.com/30404597/195967555-aed89dc6-1877-46e1-bea6-2704811c8588.mp4
+
+
 - Version: 1.0.0
 - Author: Jagadeesh
