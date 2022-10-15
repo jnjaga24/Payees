@@ -4,7 +4,7 @@
 
 ## Usage
 
-Clone the Repository
+Clone the Repository(Master branch)
 
 ## Install Dependencies
 
